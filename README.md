@@ -1,6 +1,6 @@
-# Simple Image Classification Android App (Flutter + TensorFlow Lite)
+# Image Classification Android App (Flutter + TensorFlow Lite)
 
-A simple Flutter app for Android that performs on-device image classification using TensorFlow Lite.
+A Flutter app for Android that performs on-device image classification using TensorFlow Lite.
 
 ---
 
